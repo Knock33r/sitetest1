@@ -1,0 +1,10 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    display: flexbox;
+    align-items:center;
+
+}
+.container{
+    align-items: center;
+    border-color: gray;
+}
